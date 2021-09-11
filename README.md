@@ -1,1 +1,1 @@
-# Smart ELection using Solidity
+# Smart Election using Solidity
